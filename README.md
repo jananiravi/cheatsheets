@@ -6,7 +6,7 @@ _All the cheatsheets you'll ever need!_
    - Intro, Advanced R, Regex
    - Tidyverse & Graphing Principles
    - Shiny, RMarkdown
-2. [Git/GitHub/Markdown](https://github.com/jananiravi/cheatsheets/tree/master/git-md)
+2. [Git/GitHub, Markdown](https://github.com/jananiravi/cheatsheets/tree/master/git-md)
 4. [Unix, vi](https://github.com/jananiravi/cheatsheets/tree/master/unix-vi)
 5. [Slack, templates & more](https://github.com/jananiravi/cheatsheets/tree/master/slack-misc)
 
